@@ -1,0 +1,16 @@
+.product
+{
+    position: relative;
+}
+
+
+
+.price{
+    background-color: coral;
+    position:absolute;
+    top:0;
+    right: 30px;
+    color:white;
+    padding:10px;
+    font-weight: 600px;
+}
